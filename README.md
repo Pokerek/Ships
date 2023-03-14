@@ -33,7 +33,7 @@ These instructions will get you a copy of the project up and running on your loc
 <b>Copy repository form github.com</b>
 
 ```
-git clone https://github.com/Pokerek/ships.git
+git clone https://github.com/Pokerek/Ships.git
 ```
 
 <b>Install dependencies</b>
